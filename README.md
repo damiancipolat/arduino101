@@ -1,6 +1,6 @@
 <img src="https://github.com/damiancipolat/arduino101/blob/master/doc/logo.png?raw=true" width="150px" align="right" />
 
-# Arduino 101 🚀:alien:
+# Arduino 101 🚀:alien::robot:
 Basic examples and script to test arduino things.
 
 ### List of articles
