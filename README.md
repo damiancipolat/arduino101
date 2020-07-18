@@ -8,6 +8,6 @@ Complete list of examples and the source where I have learned the concepts.
 
 | Description | Video  | Script |
 |-------------|--------|--------|
-| Internal board led blinking | :point_right: https://www.youtube.com/watch?v=GUuWgk3dXd0 | :hear_no_evil: /internal_led_blink/ |
-| Protoboard one led blinking | :point_right: https://www.youtube.com/watch?v=YWY_Is0L7fE  | :hear_no_evil: /led_blink_protoboard_1/ |
+| Internal board led blinking | :point_right: https://www.youtube.com/watch?v=GUuWgk3dXd0  | :hear_no_evil:[Go to script](https://github.com/damiancipolat/arduino101/tree/master/internal_led_blink) |
+| Protoboard one led blinking | :point_right: https://www.youtube.com/watch?v=YWY_Is0L7fE  | :hear_no_evil:[Go to script](https://github.com/damiancipolat/arduino101/tree/master/led_blink_protoboard_1)/ |
 
