@@ -34,7 +34,9 @@ Complete list of examples and the source where I have learned the concepts.
 
 ### Projects
 Combination of some sensors to create a litte project.
+
 | Description | Script |
 |-------------|--------|
-| :hear_no_evil: Internal board led blinking | :point_right: https://www.youtube.com/watch?v=GUuWgk3dXd0  |
-| :hear_no_evil: Internal board led blinking | :point_right: https://www.youtube.com/watch?v=GUuWgk3dXd0  |
+| :hear_no_evil: Robot controled with blueetooth |  [Script](https://github.com/damiancipolat/arduino101/blob/master/robot_bluetooth_car/robot_bluetooth_car.ino)  |
+| :hear_no_evil: Robot avoid obstacles |  [Script](https://github.com/damiancipolat/arduino101/blob/master/robot_avoid_obstacles/robot_avoid_obstacles.ino)  |
+| :hear_no_evil: Fish food schedule |  [Script]https://github.com/damiancipolat/arduino101/blob/master/fish_feeder_control/fish_feeder_control.ino)  |
