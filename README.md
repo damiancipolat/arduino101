@@ -30,7 +30,7 @@ Complete list of examples and the source where I have learned the concepts.
 | :hear_no_evil: Arduino oled Canvas | :point_right: https://www.youtube.com/watch?v=cnrV3xJf4po&t=761s | [Script](https://github.com/damiancipolat/arduino101/blob/master/oled_screen_canvas/oled_screen_canvas.ino) | [Circuit](https://github.com/damiancipolat/arduino101/blob/master/oled_screen_canvas/circuit.jpg?raw=true) |
 | :hear_no_evil: Speed sensor | :point_right: https://www.youtube.com/watch?v=cZ7RRJqYlSc | [Script](https://github.com/damiancipolat/arduino101/blob/master/speed_sensor_wheel/sensor/sensor.ino) | [Circuit](https://github.com/damiancipolat/arduino101/blob/master/speed_sensor_wheel/sensor/circuit.jpg?raw=true) |
 | :hear_no_evil: Led brigthness | :point_right: https://www.youtube.com/watch?v=XhsgmDQ9ffM | [Script](https://github.com/damiancipolat/arduino101/blob/master/led_brigthness/led_brigthness.ino) | [Circuit](https://github.com/damiancipolat/arduino101/blob/master/led_brigthness/circuit.png?raw=true) |
-| :hear_no_evil: NodeMCU led blink | :point_right: https://www.youtube.com/watch?v=NEo1WsT5T7s | [Script](https://github.com/damiancipolat/arduino101/blob/master/node_mcu_ligth/sketch_nov30a/sketch_nov30a.ino) | [Circuit](https://github.com/damiancipolat/arduino101/blob/master/led_brigthness/circuit.png?raw=true) |
+| :hear_no_evil: NodeMCU led blink | :point_right: https://www.youtube.com/watch?v=NEo1WsT5T7s | [Script](https://github.com/damiancipolat/arduino101/blob/master/node_mcu_ligth/sketch_nov30a/sketch_nov30a.ino) | [Circuit](https://github.com/damiancipolat/arduino101/blob/master/node_mcu_ligth/circuit.jpg?raw=true) |
 
 
 ### Projects
