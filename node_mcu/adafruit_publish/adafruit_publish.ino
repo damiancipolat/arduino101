@@ -22,8 +22,11 @@
 // this int will hold the current count for our sketch
 int count = 0;
 
-// set up the 'counter' feed
-AdafruitIO_Feed *counter = io.feed("temperature");
+//Create temperature feed.
+AdafruitIO_Feed *humidity_feed = io.feed("iot_humidity");
+
+//Create humidity feed.
+AdafruitIO_Feed *temperature_feed = io.feed("iot_temperature");
 
 void setup() {
 
@@ -50,25 +53,17 @@ void setup() {
 
 }
 
-void loop() {
-
-  // io.run(); is required for all sketches.
-  // it should always be present at the top of your loop
-  // function. it keeps the client connected to
-  // io.adafruit.com, and processes any incoming data.
+void loop(){
   io.run();
 
-  // save count to the 'counter' feed on Adafruit IO
+  //Send data
   Serial.print("sending -> ");
   Serial.println(count);
-  counter->save(count);
+  humidity_feed->save(count);
+  temperature_feed->save(count);  
 
-  // increment the count by 1
+  //Change value.
   count++;
 
-  // Adafruit IO is rate limited for publishing, so a delay is required in
-  // between feed->save events. In this example, we will wait three seconds
-  // (1000 milliseconds == 1 second) during each loop.
-  delay(3000);
-
+  delay(5000);
 }
