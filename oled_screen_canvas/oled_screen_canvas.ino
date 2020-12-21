@@ -61,8 +61,9 @@ void clear(){
 }
   
 void setup()   
-{                
+{
   // initialize with the I2C addr 0x3C
+  Wire.begin(2,0);
   display.begin(SSD1306_SWITCHCAPVCC, 0x3C);  
   clear();
   font_size(2);

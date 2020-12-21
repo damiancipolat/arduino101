@@ -126,7 +126,8 @@ void turn_left(){
 }
 
 void loop()
-{
+{forward();
+  /*
   int distance = getDistance();
   Serial.println((String)distance+"cm");
   digitalWrite(led_front,HIGH);    
@@ -149,6 +150,6 @@ void loop()
     turn_left();
     delay(500);
     engine_stop();
-  }
+  }*/
 
 }
