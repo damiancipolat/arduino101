@@ -32,6 +32,7 @@ Complete list of examples and the source where I have learned the concepts.
 | :hear_no_evil: Led brigthness | :point_right: https://www.youtube.com/watch?v=XhsgmDQ9ffM | [Script](https://github.com/damiancipolat/arduino101/blob/master/led_brigthness/led_brigthness.ino) | [Circuit](https://github.com/damiancipolat/arduino101/blob/master/led_brigthness/circuit.png?raw=true) |
 | :hear_no_evil: NodeMCU led blink | :point_right: https://www.youtube.com/watch?v=NEo1WsT5T7s | [Script](https://github.com/damiancipolat/arduino101/blob/master/node_mcu_ligth/sketch_nov30a/sketch_nov30a.ino) | [Circuit](https://github.com/damiancipolat/arduino101/blob/master/node_mcu_ligth/circuit.jpg?raw=true) |
 | :hear_no_evil: Temperatura sensor | :point_right: https://www.youtube.com/watch?v=NknCz0vC-RY | [Script](https://github.com/damiancipolat/arduino101/blob/master/temperature_sensor/temperature_sensor.ino) | [Circuit](https://github.com/damiancipolat/arduino101/blob/master/temperature_sensor/circuito.png?raw=true) |
+| :hear_no_evil: Humidity sensor | :point_right: https://e-elektronic.com/arduino-tutorial-20-sensor-de-humedad-de-suelo/ | [Script](https://github.com/damiancipolat/arduino101/blob/master/sensor_humedad/sensor_humedad.ino) | [Circuit](https://github.com/damiancipolat/arduino101/blob/master/sensor_humedad/circuito.jpg?raw=true) |
 
 
 ### Projects
